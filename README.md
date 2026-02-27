@@ -11,7 +11,7 @@ reproduce the comparison between:
 ## 1. Clone Repository
 
 ``` bash
-git clone https://github.com/myProject.git
+git clone https://github.com/yukic993/FTEC5660_IndividualProject
 cd AI-Trader
 ```
 
